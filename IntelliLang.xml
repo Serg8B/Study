@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="DTD" injector-id="java">
+      <display-name>Stage.setTitle (javafx.stage)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setTitle").withParameters("java.lang.String").definedInClass("javafx.stage.Stage"))]]></place>
+    </injection>
+  </component>
+</application>
